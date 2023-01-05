@@ -1,5 +1,5 @@
 body { 
-    background-color: rgb(172, 166, 155);
+    background-color: rgb(172, 166, 155); /* Changes Background Color of landing page */
 }
 
 nav {
@@ -27,7 +27,7 @@ li  {
 
 
 li:hover {
-    background-color: orange;
+    background-color: orange; /* Changes color when user hovers over nav buttons */
 }
 
 
