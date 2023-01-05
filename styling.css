@@ -1,28 +1,32 @@
 body { 
     background-color: rgb(172, 166, 155); /* Changes Background Color of landing page */
+    margin: 0px;
 }
 
 nav {
     color: yellow;
     text-align: center; 
+    font-weight: bold;
+    margin-bottom: 10px;
+    width: 100%;
 
 }
 
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
+    padding: 0px;
+    margin: 0px;
     position: fixed;
-    top: 0;
+    top: 0px;
     width: 100%;
+    background-color: blue;
 }
 
 li  { 
     display: inline;
-    padding: 14px 16px;
+    padding: 10px 16px;
     cursor: pointer;
+    
 }
 
 
